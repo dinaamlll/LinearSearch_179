@@ -28,3 +28,14 @@ void input()
 	}
 
 }
+
+
+
+
+void linearSearch()
+{
+	char ch;
+	int comparison; // Number of comparisons
+
+
+}
