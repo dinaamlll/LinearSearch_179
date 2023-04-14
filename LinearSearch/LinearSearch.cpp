@@ -37,5 +37,11 @@ void linearSearch()
 	char ch;
 	int comparison; // Number of comparisons
 
-
-}
+	do
+	{
+		// Accept the number to be searched
+		cout << "\nEnter the element you want to swarch: ";		// Langkah 1
+		int item;
+		cin >> item;
+		{
+		}
